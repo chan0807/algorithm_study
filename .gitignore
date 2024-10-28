@@ -1,0 +1,39 @@
+# 컴파일된 클래스 파일
+*.class
+
+# 로그 파일
+*.log
+
+# 패키징 파일(JAR, WAR 등)
+*.jar
+*.war
+*.ear
+
+# OS 별 파일
+.DS_Store
+Thumbs.db
+
+# IDE 설정 파일
+### IntelliJ IDEA ###
+.idea/
+*.iml
+out/
+
+### Eclipse ###
+.project
+.classpath
+.settings/
+target/
+
+### VS Code ###
+.vscode/
+
+# Gradle 빌드 파일
+.gradle/
+build/
+
+# Maven 빌드 디렉토리
+target/
+
+# 테스트 리포트
+/test-output/
