@@ -34,7 +34,7 @@ public class Solution2 {
                 count = 1;
             }
         }
-       
+
         
         return list.stream().mapToInt(i -> i).toArray();
     }
